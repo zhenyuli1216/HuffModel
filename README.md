@@ -1,2 +1,2 @@
 # HuffModel
-This project compresses and uncompresses binary files using the heap data structure 
+This program compresses and uncompresses binary files using the heap data structure 
